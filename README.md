@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmi0323" alt="azmi0323" /></a> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **REACT**
+- 💬 Ask me about **JS**
+- 💬 Ask me about **HTML**
+- 💬 Ask me about **CSS**
+- 💬 Ask me about **REACT NATIVE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
