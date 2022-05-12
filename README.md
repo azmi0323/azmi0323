@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aazmi Habib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<p align="left">
+<p  align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=azmi0323"
@@ -9,11 +9,9 @@
   /></a>
 </p>
 
-- 💬 Ask me about **REACT** - 💬 Ask me about **JS** - 💬 Ask me about **HTML**
-- 💬 Ask me about **CSS** - 💬 Ask me about **REACT NATIVE**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3  align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/aazmihabib1" target="blank"
     ><img
       align="center"
@@ -60,8 +58,8 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -234,7 +232,7 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=azmi0323&show_icons=true&locale=en&layout=compact"
     alt="azmi0323"
   />
